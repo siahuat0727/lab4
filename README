@@ -1,0 +1,8 @@
+question A:
+T _Z7averagePdRd
+T _Z7averageif
+T main
+
+question B:
+a, b, c, d分別代表不同類型的數據，大小會因類型的不同而不同。
+pa, pb, pc, pd都是指針，表示地址，大小在同一系統上相同。
